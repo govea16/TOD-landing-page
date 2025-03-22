@@ -11,3 +11,8 @@ HTML5 badge logo by W3.org
 
 Photo on hero banner by Aaron Burden on Unsplash
       
+information section photos:
+Photo by Mathieu LESNIAK on Unsplash
+Photo by Ben Grayland on Unsplash
+Photo by Max Harlynking on Unsplash
+Photo by Ciocan Ciprian on Unsplash
