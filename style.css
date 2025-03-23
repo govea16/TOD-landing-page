@@ -122,3 +122,64 @@ nav ul li a {
     color: #1f2937;
     font-weight: 300;
 }
+
+.quote-section {
+    height: 400px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-box {
+    width: 55%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.quote {
+    text-align: left;
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.quote-author {
+    font-size: 30px;
+    color: #1F2937;
+    text-align: right;
+    font-weight: 500;
+}
+
+.CTA-section {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CTA-box {
+    background-color: #3882f6;
+    width: 66%;
+    height: 33%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.CTA-text {
+    color: white;
+}
+
+.text-header {
+    font-size: 22px;
+    margin-bottom: .25em;
+}
+
+.CTA-subtext {
+    font-weight: 300;
+}
+
