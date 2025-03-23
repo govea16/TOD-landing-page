@@ -183,3 +183,27 @@ nav ul li a {
     font-weight: 300;
 }
 
+.CTA-button {
+    width: 7em;
+    height: 2em;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    background-color: #3882F6;
+    font-size: 16px;
+}
+
+.CTA-button:hover{
+    cursor:pointer;
+}
+
+footer{
+    background-color: #1F2937;
+    height: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 300;
+}
